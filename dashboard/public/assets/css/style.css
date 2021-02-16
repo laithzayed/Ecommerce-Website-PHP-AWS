@@ -759,7 +759,7 @@ body{
     width: 100%;
 }
 .hero-background{
-    background-image: url('../images/hero_bg.jpg');
+    background-image: url('images/hero_bg.jpg');
     height: 194px;
     background-position: center;
     background-repeat: no-repeat;
@@ -2615,7 +2615,7 @@ body.open-mobile-search .header-area.layout-02{
     display: block;
     font-size: 0;
     line-height: 0;
-    background-image: url('../images/home-02/bgrd-newsletter.jpg');
+    background-image: url('images/home-02/bgrd-newsletter.jpg');
     height: 315px;
     padding-top: 86px;
     background-repeat: no-repeat;
@@ -2727,7 +2727,7 @@ body.open-mobile-search .header-area.layout-02{
     width: 100%;
 }
 .newsletter-block_popup-layout{
-    background-image: url('../images/bg-newsletter.jpg');
+    background-image: url('images/bg-newsletter.jpg');
     display: block;
     overflow: hidden;
     background-repeat: no-repeat;
@@ -3160,7 +3160,7 @@ body.open-mobile-search .header-area.layout-02{
     top: 0;
     left: 0;
     right: 0;
-    background-image: url('../images/home-01/bg_header-01.png');
+    background-image: url('images/home-01/bg_header-01.png');
     background-repeat: no-repeat;
     background-position: center center;
     -webkit-transition: all 350ms ease;
@@ -3240,10 +3240,10 @@ body:not(.open-overlay) .header-area.layout-01{
     z-index: 20;
 }
 .background-mega-01{
-    background: url("../images/megamenu/vegetable-mega-bg.png");
+    background: url("images/megamenu/vegetable-mega-bg.png");
 }
 .background-mega-02{
-    background: url("../images/megamenu/megamenu-bg-02.jpg");
+    background: url("images/megamenu/megamenu-bg-02.jpg");
 }
 .max-width-270{
     max-width: 270px;
@@ -3522,7 +3522,7 @@ body.open-overlay #overlay{
 }
 .product-atts .atts-item .img-color,
 .sidebar .wgt-content .color-list li a .img-color{
-    background: url('../images/color_bg1.jpg');
+    background: url('images/color_bg1.jpg');
     background-size: cover;
 }
 .sumary-product .product-attribute .product-atts .atts-item ul.color-list span.color-02,
