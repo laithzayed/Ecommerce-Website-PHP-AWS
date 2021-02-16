@@ -167,7 +167,7 @@ if (isset($_POST['submit'])) {
                                     <div class='cart-item'>
                                         <div class='product-thumb'>
                                             <a class='prd-thumb' href='#'>
-                                                <figure><img src='../dashboard/{$value['product_image']}' width='113' height='113' alt='shop-cart'></figure>
+                                                <figure><img src='dashboard/{$value['product_image']}' width='113' height='113' alt='shop-cart'></figure>
                                             </a>
                                         </div>
                                         <div class='info'>

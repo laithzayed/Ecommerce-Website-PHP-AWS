@@ -64,7 +64,7 @@
                                         }
                                         ?>
                                         <?php echo "
-                                            <img src='../dashboard/{$row['pro_image']}' alt='dd' width='270' height='270' class='product-thumnail'>
+                                            <img src='dashboard/{$row['pro_image']}' alt='dd' width='270' height='270' class='product-thumnail'>
                                             
                                         </a>
                                     </div>

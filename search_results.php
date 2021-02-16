@@ -81,7 +81,7 @@
                     <div class='contain-product layout-default'>
                         <div class='product-thumb'>
                             <a href='single_product.php?id={$results['pro_id']}' class='link-to-product'>
-                                <img src='../dashboard/{$results['pro_image']}' alt='dd' width='270' height='270' class='product-thumnail'>
+                                <img src='dashboard/{$results['pro_image']}' alt='dd' width='270' height='270' class='product-thumnail'>
                             </a>
                         </div>
                         <div class='info'>

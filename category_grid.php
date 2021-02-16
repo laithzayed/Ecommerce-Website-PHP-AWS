@@ -59,7 +59,7 @@
                                             echo "<li class='product-item col-lg-3 col-md-3 col-sm-4 col-xs-6'>";
                                             echo "<div class='contain-product layout-default'>";
                                             echo "<div class='product-thumb'>";
-                                            echo "<a href='single_product.php?id={$row['pro_id']}' class='link-to-product'><img src='../dashboard/{$row['pro_image']}' alt='dd' width='150' height='150' class='product-thumnail' ></a>"; //>>>>>>>>>>>
+                                            echo "<a href='single_product.php?id={$row['pro_id']}' class='link-to-product'><img src='dashboard/{$row['pro_image']}' alt='dd' width='150' height='150' class='product-thumnail' ></a>"; //>>>>>>>>>>>
                                             echo "</div>";
                                             echo "<div class='info'>";
                                             echo "<b class='categories'>{$row['pro_cat']}</b>"; 

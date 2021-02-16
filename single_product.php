@@ -40,7 +40,7 @@
                               echo "<div class=media>
                               <ul class='biolife-carousel slider-for data-slick={arrows:false,dots:false,slidesMargin:30,slidesToShow:1,slidesToScroll:1,fade:true,asNavFor:.slider-nav'}>
 
-                              <li>    <img src='../dashboard/{$row['pro_image']}'width=500 height=500> </li>
+                              <li>    <img src='dashboard/{$row['pro_image']}'width=500 height=500> </li>
                            
                           </ul>";}
                                                    

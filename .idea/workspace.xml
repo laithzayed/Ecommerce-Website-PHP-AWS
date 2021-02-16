@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="53ea5ce5-9b1c-4899-beb0-e5f7d7a78167" name="Default Changelist" comment="" />
+    <list default="true" id="53ea5ce5-9b1c-4899-beb0-e5f7d7a78167" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/all_products.php" beforeDir="false" afterPath="$PROJECT_DIR$/all_products.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.php" beforeDir="false" afterPath="$PROJECT_DIR$/cart.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/category_grid.php" beforeDir="false" afterPath="$PROJECT_DIR$/category_grid.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/checkout.php" beforeDir="false" afterPath="$PROJECT_DIR$/checkout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search_results.php" beforeDir="false" afterPath="$PROJECT_DIR$/search_results.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/single_product.php" beforeDir="false" afterPath="$PROJECT_DIR$/single_product.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +36,7 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="53ea5ce5-9b1c-4899-beb0-e5f7d7a78167" name="Default Changelist" comment="" />
@@ -36,7 +44,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613473271148</updated>
-      <workItem from="1613473272645" duration="361000" />
+      <workItem from="1613473272645" duration="991000" />
     </task>
     <servers />
   </component>

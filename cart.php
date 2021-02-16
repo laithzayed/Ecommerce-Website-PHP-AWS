@@ -136,7 +136,7 @@ if (isset($_POST['update'])) {
                                     <tr class='cart_item'>
                                         <td class='product-thumbnail' data-title='Product Name'>
                                             <a class='prd-thumb' href='#'>
-                                                <figure><img width='113' height='113' src='../dashboard/{$value['product_image']}' alt='shipping cart'></figure>
+                                                <figure><img width='113' height='113' src='dashboard/{$value['product_image']}' alt='shipping cart'></figure>
                                             </a>
                                             <a class='prd-name' href='single_product.php?id={$value['product_id']}'>{$value['product_name']}</a>
                                             <div class='action'>
