@@ -205,7 +205,7 @@
                                                 <li>
                                                     <div class='minicart-item'>
                                                         <div class='thumb'>
-                                                            <a href='cart.php'><img src='../dashboard/{$value['product_image']}' width='90' height='90' alt='image' /></a>
+                                                            <a href='cart.php'><img src='dashboard/{$value['product_image']}' width='90' height='90' alt='image' /></a>
                                                         </div>
                                                         <div class='left-info'>
                                                             <div class='product-title'>
